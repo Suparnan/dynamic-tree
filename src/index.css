@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.tab {
+  position: relative;
+  background-color: rgb(218, 216, 216);
+  font-weight: bold;
+  min-height: 32px;
+  padding: 10px;
+  border: solid black 1px;
+}
+
+.margin-left-10 {
+  margin-left: 10%;
+}
+
+.tabs-container {
+  margin: 10% 30%;
+}
